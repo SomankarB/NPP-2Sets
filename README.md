@@ -1,0 +1,1 @@
+Number Partitioning problem is one of the widely discussed topic. It has numerous applications, one of which is dividing a set of numbers into two subsets such that the sums of the subsets are as close to each other as possible. In this project we model this problem as a QUBO and execute it on a D-Wave hybrid instance.
